@@ -47,7 +47,8 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
 #define UNUSED_PINS
 
 /* Backlight Setup */
-#define BACKLIGHT_PIN F5
+// #define BACKLIGHT_ENABLE 0
+// #define BACKLIGHT_PIN F5
 #define BACKLIGHT_LEVELS 6
 
 /* COL2ROW or ROW2COL */
